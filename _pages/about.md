@@ -9,6 +9,4 @@ redirect_from:
 
 I'm a PhD from [Tianjin University](https://www.tju.edu.cn/). My research interests include deep learning framework testing, and protocol fuzzing.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
 [Email](mailto:quanlili@tju.edu.cn) / [Github](https://github.com/liliquan0118) 
